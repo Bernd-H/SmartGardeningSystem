@@ -26,3 +26,6 @@ DA Bernd Hatzinger, Lukas Zrout
 
 CC1101 Module Lib: https://github.com/SpaceTeddy/CC1101<br>
 CC1101 Example/Doku: https://github.com/abhra0897/msp430_cc1101_energia_v2
+
+REST API Template: https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview
+Worker Service: https://www.stevejgordon.co.uk/what-are-dotnet-worker-services
