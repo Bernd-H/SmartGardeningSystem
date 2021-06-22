@@ -1,4 +1,4 @@
-# DA_SmartGardeningSystem
+# DA GardeningSystem
 DA Bernd Hatzinger, Lukas Zrout
 
 ## Blockschaltbild
