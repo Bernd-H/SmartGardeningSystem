@@ -15,12 +15,11 @@ DA Bernd Hatzinger, Lukas Zrout
 ## Ziele
 ### Ende Ferien:
 #### Bernd
+- Anfang Handy App
 - Antenne ansteuern
 - Konfigurations AP
-- Anfang Handy App
 #### Lukas
-- Sensor
-- Antenne ansteuern
+- Kommunikation zur Base-Station
 - Wertanfragelogik
 
 # Used Libraries
