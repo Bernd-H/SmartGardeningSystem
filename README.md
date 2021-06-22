@@ -1,13 +1,13 @@
 # DA_SmartGardeningSystem
 DA Bernd Hatzinger, Lukas Zrout
 
+## Blockschaltbild
 <img src="./Aufgabenstellung/SmartGardeningSystem_V2.png">
 
 ## Einteilung
 #### Bernd
 - Handyapp
 - Base Station
-- 
 #### Lukas
 - Branch Station
 - Website (Konfiguration/Steuerung)
