@@ -12,8 +12,8 @@ DA Bernd Hatzinger, Lukas Zrout
 - Branch Station
 - Website (Konfiguration/Steuerung)
 
-## Ziele
-### Ende Ferien:
+# Ziele
+## Ende Ferien:
 #### Bernd
 - Anfang Handy App
 - Antenne ansteuern
