@@ -1,8 +1,8 @@
 # DA_SmartGardeningSystem
 DA Bernd Hatzinger, Lukas Zrout
 
-![Alt text](./controllers_brief.svg)
-<img src="./Aufgabenstellung/SmartGardeningSystem_V2.pdf">
+![Alt text](./Aufgabenstellung/SmartGardeningSystem_V2.png)
+<img src="./Aufgabenstellung/SmartGardeningSystem_V2.png">
 
 # Used Libraries
 
