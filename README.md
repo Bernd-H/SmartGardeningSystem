@@ -3,9 +3,25 @@ DA Bernd Hatzinger, Lukas Zrout
 
 <img src="./Aufgabenstellung/SmartGardeningSystem_V2.png">
 
-##Einteilung
-####Bernd
-####Lukas
+## Einteilung
+#### Bernd
+- Handyapp
+- Base Station
+- 
+#### Lukas
+- Branch Station
+- Website (Konfiguration/Steuerung)
+
+## Ziele
+### Ende Ferien:
+#### Bernd
+- Antenne ansteuern
+- Konfigurations AP
+- Anfang Handy App
+#### Lukas
+- Sensor
+- Antenne ansteuern
+- Wertanfragelogik
 
 # Used Libraries
 
