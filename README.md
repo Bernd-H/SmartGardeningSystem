@@ -27,5 +27,6 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 
 CC1101 Module Lib: https://github.com/SpaceTeddy/CC1101<br>
 CC1101 Example/Doku: https://github.com/abhra0897/msp430_cc1101_energia_v2<br>
-REST API Template: https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview<br>
+REST API Template: ~~https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview~~<br>
+                   https://marketplace.visualstudio.com/items?itemName=anasoft-code.RestApiN<br>
 Worker Service: https://www.stevejgordon.co.uk/what-are-dotnet-worker-services
