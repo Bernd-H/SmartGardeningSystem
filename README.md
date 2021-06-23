@@ -1,5 +1,5 @@
 # DA GardeningSystem
-DA Bernd Hatzinger, Lukas Zrout
+DA Bernd Hatzinger, Lukas Zrout<br>
 Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 
 ## Blockschaltbild
