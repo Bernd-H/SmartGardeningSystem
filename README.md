@@ -24,9 +24,10 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 - Wertanfragelogik
 
 # Used Libraries
-## Lukas
 CC1101 Module Lib: https://github.com/SpaceTeddy/CC1101<br>
 CC1101 Example/Doku: https://github.com/abhra0897/msp430_cc1101_energia_v2<br>
+## Lukas
+
 ## Bernd
 REST API Template: ~~https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview~~<br>
                    https://marketplace.visualstudio.com/items?itemName=anasoft-code.RestApiN<br>
