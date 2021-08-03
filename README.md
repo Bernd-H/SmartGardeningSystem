@@ -34,5 +34,6 @@ REST API Template: ~~https://marketplace.visualstudio.com/items?itemName=anasoft
 Worker Service: https://www.stevejgordon.co.uk/what-are-dotnet-worker-services<br>
 API-Anleitung: https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api<br>
 Mobile App: https://github.com/sthewissen/Xamarin.Forms.PancakeView<br>
-https://editor.method.ac/<br>
-https://www.iconsdb.com/white-icons/info-2-icon.html
+Elements: https://editor.method.ac/<br>
+Icons: https://www.iconsdb.com/white-icons/info-2-icon.html<br>
+App Release: https://docs.microsoft.com/en-us/xamarin/android/deploy-test/release-prep/?tabs=windows
