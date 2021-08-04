@@ -36,4 +36,5 @@ API-Anleitung: https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-ve
 Mobile App: https://github.com/sthewissen/Xamarin.Forms.PancakeView<br>
 Elements: https://editor.method.ac/<br>
 Icons: https://www.iconsdb.com/white-icons/info-2-icon.html<br>
-App Release: https://docs.microsoft.com/en-us/xamarin/android/deploy-test/release-prep/?tabs=windows
+App Release: https://docs.microsoft.com/en-us/xamarin/android/deploy-test/release-prep/?tabs=windows<br>
+Illustrations: https://undraw.co/illustrations
