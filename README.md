@@ -22,6 +22,9 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 #### Lukas
 - Kommunikation zur Base-Station
 - Wertanfragelogik
+- ???
+- Ansteuerung des Antennenmoduls via STM31F103RB
+- Grundlegender Schaltplan der Branch Station (evtl. PCB)
 
 # Used Libraries
 CC1101 Module Lib: https://github.com/SpaceTeddy/CC1101<br>
