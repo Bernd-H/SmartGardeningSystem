@@ -22,7 +22,7 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 #### Lukas
 - Kommunikation zur Base-Station
 - Wertanfragelogik
-- ???
+- ??
 - Ansteuerung des Antennenmoduls via STM31F103RB
 - Grundlegender Schaltplan der Branch Station (evtl. PCB)
 
