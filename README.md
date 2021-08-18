@@ -27,8 +27,9 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 - Grundlegender Schaltplan der Branch Station (evtl. PCB)
 
 # Used Libraries
-CC1101 Module Lib: https://github.com/simonmonk/CC1101_arduino<br>
-CC1101 Example/Doku: https://github.com/LSatan/SmartRC-CC1101-Driver-Lib<br>
+CC1101 Top: https://github.com/LSatan/SmartRC-CC1101-Driver-Lib<br>
+	CC1101 Simplified: https://github.com/simonmonk/CC1101_arduino<br>
+
 ## Lukas
 
 ## Bernd
