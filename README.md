@@ -33,6 +33,9 @@ CC1101 Top: https://github.com/LSatan/SmartRC-CC1101-Driver-Lib<br>
 ## Lukas
 https://www.snapeda.com/parts/STM32F103RB/STMicroelectronics/view-part/596771/?ref=search&t=stm32f103rb
 https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?company=HTL+Hollabrunn&amp;welcome=home
+
+ICs:
+https://www.ti.com/lit/ds/symlink/bq24210.pdf?ts=1629374828288&ref_url=https%253A%252F%252Fwww.google.com%252F
 ## Bernd
 REST API Template: ~~https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview~~<br>
                    https://marketplace.visualstudio.com/items?itemName=anasoft-code.RestApiN<br>
