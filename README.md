@@ -37,6 +37,8 @@ https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?compan
 ICs:
 Referenz System Solar Laden: https://wiki.dfrobot.com/Solar_Power_Manager_5V_SKU__DFR0559#More_Documents
 Davon IC bsp. https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf
+Schaltplan: https://raw.githubusercontent.com/DFRobot/Wiki/master/Solar%20Power%20Manager%20Series/DFR0535/res/DFR0535%20(V1.0)%20Schematic.pdf
+
 evtl. https://www.ti.com/lit/ds/symlink/bq24210.pdf?ts=1629374828288&ref_url=https%253A%252F%252Fwww.google.com%252F
 ## Bernd
 REST API Template: ~~https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview~~<br>
