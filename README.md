@@ -31,7 +31,7 @@ CC1101 Top: https://github.com/LSatan/SmartRC-CC1101-Driver-Lib<br>
 	CC1101 Simplified: https://github.com/simonmonk/CC1101_arduino<br>
 
 ## Lukas
-
+https://github.com/issus/altium-library/blob/master/symbols/ARM%20Cortex/SCH%20-%20ARM%20CORTEX%20-%20ST%20STM32F103%2048PIN.SCHLIB
 ## Bernd
 REST API Template: ~~https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore3&ssr=false#overview~~<br>
                    https://marketplace.visualstudio.com/items?itemName=anasoft-code.RestApiN<br>
