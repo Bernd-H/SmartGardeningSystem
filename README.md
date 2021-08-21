@@ -5,7 +5,7 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 ## Blockschaltbild
 <img src="./Aufgabenstellung/SmartGardeningSystem_V2.png">
 
-#### Neue Strukturänderungen:
+#### Neue Strukturänderungen (21.08.2021):
 - Das Ventilmodul wird mit Niederspannungskabel versorgt.
 - Die Sensorstation ist eine Box, in der sich Antenne, Prozessor befindet. 
 Der Bodenfeuchtigkeitssensor wird mit einem Kabel an die Box angeschlossen. 
