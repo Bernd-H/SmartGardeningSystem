@@ -4,11 +4,12 @@ Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 
 ## Blockschaltbild
 <img src="./Aufgabenstellung/SmartGardeningSystem_V2.png">
+
 #### Neue Strukturänderungen:
 - Das Ventilmodul wird mit Niederspannungskabel versorgt.
-- Die Sensorstation ist eine Box, in der sich Antenne, Prozessor befindet.
-- - Der Bodenfeuchtigkeitssensor wird mit einem Kabel an die Box angeschlossen.
-- - Zusätzlich kann man ein Niederspannungskabel anstecken (optional). Oder es wird ein Solarpanelpox (mit Akku un el. Schaltung) mittels eines Kabel angeschlossen.
+- Die Sensorstation ist eine Box, in der sich Antenne, Prozessor befindet. 
+Der Bodenfeuchtigkeitssensor wird mit einem Kabel an die Box angeschlossen. 
+Zusätzlich kann man ein Niederspannungskabel anstecken (optional). Oder es wird ein Solarpanelpox (mit Akku un el. Schaltung) mittels eines Kabel angeschlossen.
 - Die Hauptstation wird ebenfalls mit einem Kabel versorgt. Eigene box für Hautpstation notwendig? (Nur raspberry pi...)
 - Auf jedem Modul/Station befindet sich ein Knopf zum Zurücksetzen oder erstmaligen Verbinden.
 
