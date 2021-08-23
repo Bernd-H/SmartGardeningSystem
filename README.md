@@ -58,4 +58,8 @@ Elements: https://editor.method.ac/<br>
 Icons: https://www.iconsdb.com/white-icons/info-2-icon.html<br>
 App Release: https://docs.microsoft.com/en-us/xamarin/android/deploy-test/release-prep/?tabs=windows<br>
 Illustrations: https://undraw.co/illustrations<br><br>
-https://ahorasomos.izertis.com/solidgear/en/xamarin-diaries-offline-by-default/
+https://ahorasomos.izertis.com/solidgear/en/xamarin-diaries-offline-by-default/<br>
+Temporäre arbeitslinks:<br>
+- https://github.com/mackayn/MVVM-Light-Sample/blob/master/XamFormsTestApp/App.xaml.cs
+- https://stackoverflow.com/questions/13795596/how-to-use-mvvmlight-simpleioc
+- MVVM in action: https://github.com/mackayn/CrudSample
