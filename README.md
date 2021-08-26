@@ -36,7 +36,8 @@ Zusätzlich kann man ein Niederspannungskabel anstecken (optional). Oder es wird
 
 # Used Libraries
 CC1101 Top: https://github.com/LSatan/SmartRC-CC1101-Driver-Lib<br>
-	CC1101 Simplified: https://github.com/simonmonk/CC1101_arduino<br>
+CC1101 Simplified: https://github.com/simonmonk/CC1101_arduino<br>
+CC1101 Raspberry: https://github.com/SpaceTeddy/CC1101<br>
 
 ## Lukas
 https://www.snapeda.com/parts/STM32F103RB/STMicroelectronics/view-part/596771/?ref=search&t=stm32f103rb
