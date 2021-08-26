@@ -64,3 +64,4 @@ Temporäre arbeitslinks:<br>
 - https://github.com/mackayn/MVVM-Light-Sample/blob/master/XamFormsTestApp/App.xaml.cs
 - https://stackoverflow.com/questions/13795596/how-to-use-mvvmlight-simpleioc
 - MVVM in action: https://github.com/mackayn/CrudSample
+- https://springframework.net/doc-latest/reference/html/quickstarts.html
