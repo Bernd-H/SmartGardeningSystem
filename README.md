@@ -3,7 +3,7 @@ DA Bernd Hatzinger, Lukas Zrout<br>
 Datenbank: https://diplomarbeiten.berufsbildendeschulen.at/
 
 ## Blockschaltbild
-<img src="./Aufgabenstellung/SmartGardeningSystem_V2.png">
+<img src="./Aufgabenstellung/SmartGardeningSystem_V3.png">
 
 #### Neue Strukturänderungen (21.08.2021):
 - Das Ventilmodul wird mit Niederspannungskabel versorgt.
