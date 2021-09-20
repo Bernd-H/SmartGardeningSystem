@@ -61,6 +61,7 @@ App Release: https://docs.microsoft.com/en-us/xamarin/android/deploy-test/releas
 Illustrations: https://undraw.co/illustrations<br>
 DTOs: https://softwareengineering.stackexchange.com/questions/373284/what-is-the-use-of-dto-instead-of-entity<br><br>
 https://ahorasomos.izertis.com/solidgear/en/xamarin-diaries-offline-by-default/<br>
+SaveObjectsInFile: https://stackoverflow.com/questions/6115721/how-to-save-restore-serializable-object-to-from-file<br>
 Temporäre arbeitslinks:<br>
 - https://github.com/mackayn/MVVM-Light-Sample/blob/master/XamFormsTestApp/App.xaml.cs
 - https://stackoverflow.com/questions/13795596/how-to-use-mvvmlight-simpleioc
