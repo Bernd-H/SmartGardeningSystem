@@ -62,6 +62,8 @@ Illustrations: https://undraw.co/illustrations<br>
 DTOs: https://softwareengineering.stackexchange.com/questions/373284/what-is-the-use-of-dto-instead-of-entity<br><br>
 https://ahorasomos.izertis.com/solidgear/en/xamarin-diaries-offline-by-default/<br>
 SaveObjectsInFile: https://stackoverflow.com/questions/6115721/how-to-save-restore-serializable-object-to-from-file<br>
+StoringPasswords (Hashes): https://medium.com/dealeron-dev/storing-passwords-in-net-core-3de29a3da4d2<br>
+JSON Web Token in ASP.NET: https://www.c-sharpcorner.com/article/jwt-json-web-token-authentication-in-asp-net-core/<br>
 Temporäre arbeitslinks:<br>
 - https://github.com/mackayn/MVVM-Light-Sample/blob/master/XamFormsTestApp/App.xaml.cs
 - https://stackoverflow.com/questions/13795596/how-to-use-mvvmlight-simpleioc
