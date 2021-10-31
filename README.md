@@ -59,6 +59,7 @@ Elements: https://editor.method.ac/<br>
 Icons: https://www.iconsdb.com/white-icons/info-2-icon.html<br>
 App Release: https://docs.microsoft.com/en-us/xamarin/android/deploy-test/release-prep/?tabs=windows<br>
 Illustrations: https://undraw.co/illustrations<br>
+Weather API Client: https://github.com/joancaron/OpenWeatherMap-Api-Net<br>
 DTOs: https://softwareengineering.stackexchange.com/questions/373284/what-is-the-use-of-dto-instead-of-entity<br><br>
 https://ahorasomos.izertis.com/solidgear/en/xamarin-diaries-offline-by-default/<br>
 SaveObjectsInFile: https://stackoverflow.com/questions/6115721/how-to-save-restore-serializable-object-to-from-file<br>
