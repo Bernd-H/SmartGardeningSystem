@@ -4,6 +4,8 @@
   <img src="https://github.com/Bernd-H/SmartGardeningSystem/blob/main/Pictures/SmartGardeningSystem_V5_en.png">
 </p>
 
+// description
+
 ## Features
 
 ## Source Code
@@ -11,6 +13,7 @@
 - ![Repository for the basestation](https://github.com/Bernd-H/SmartGardeningSystem_Basestation)
 - ![Repository for the mobile app](https://github.com/Bernd-H/SmartGardeningSystem_MobileApp)
 - ![Repository for the external server](https://github.com/Bernd-H/SmartGardeningSystem_ExternalServer)
+- Code for the sensor/valve station: 
 
 ## Current versions
 
