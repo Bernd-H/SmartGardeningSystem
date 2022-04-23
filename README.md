@@ -21,8 +21,16 @@ local network. With the help of an external server the user can access
 these things outside of their network as well.
 
 ## Features
-- a
-- b
+- Irrigation zones
+- No power or Wi-Fi needed by the sensor or valve modules
+- Works also without internet
+- End-to-end encrypted
+- No data stored online
+- Both automatic irrigation (algorithm) and manual irrigation possible
+- Shows battery level / signal strength
+- Can be operated anywhere via the internet
+- Power efficient
+- Sensor data stored in database on the basestation
 
 ## Source Code
 
@@ -36,3 +44,6 @@ these things outside of their network as well.
 <b>Basestation:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem)<br/>
 <b>Mobile-App:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem_MobileApp)<br/>
 <b>External Server:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem_ExternalServer)<br/>
+
+## License
+This project is licensed under the GPLv3 license.
