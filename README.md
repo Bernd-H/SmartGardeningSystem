@@ -41,7 +41,7 @@ these things outside of their network as well.
 
 ## Current versions
 
-<b>Basestation:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem)<br/>
+<b>Basestation:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem_Basestation)<br/>
 <b>Mobile-App:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem_MobileApp)<br/>
 <b>External Server:</b>&ensp;![](https://img.shields.io/github/release/Bernd-H/SmartGardeningSystem_ExternalServer)<br/>
 
